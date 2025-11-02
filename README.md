@@ -1,1 +1,0 @@
-# ServiceNowAdministrator-NaanMudhalvan
